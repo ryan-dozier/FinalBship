@@ -1,0 +1,5 @@
+﻿  finalBship.c
+\\mac\dropbox\c programs\finalbship\finalbship\finalbship.c(76): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\mac\dropbox\c programs\finalbship\finalbship\finalbship.c(72): warning C4101: 'nextMissle': unreferenced local variable
+  FinalBship.vcxproj -> \\Mac\Dropbox\c programs\FinalBship\Debug\FinalBship.exe
+  FinalBship.vcxproj -> \\Mac\Dropbox\c programs\FinalBship\Debug\FinalBship.pdb (Full PDB)
