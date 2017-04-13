@@ -1,1 +1,1 @@
-FinalBship
+This is a simple Console Application I wrote using Visual Studios. The only necessary file to run is the .c file.
